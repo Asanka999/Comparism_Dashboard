@@ -1,0 +1,6 @@
+streamlit>=1.37
+opencv-python
+mediapipe
+numpy
+pandas
+plotly
